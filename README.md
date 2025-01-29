@@ -38,8 +38,8 @@ git clone https://github.com/jiaqili-co/one.git
 
 
 📌 Additional Notes
-	•	The problem-solving process is thoroughly documented in the .md files.
-	•	Code is optimized for efficiency and correctness.
-	•	If you have any questions or would like further clarifications, feel free to reach out.
+•	The problem-solving process is thoroughly documented in the .md files.
+•	Code is optimized for efficiency and correctness.
+•	If you have any questions or would like further clarifications, feel free to reach out.
 
 This README clearly presents your work in an organized, structured, and professional manner, which will make it easy for reviewers to navigate your repository. Let me know if you’d like any modifications! 🚀
