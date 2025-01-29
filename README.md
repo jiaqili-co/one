@@ -34,11 +34,8 @@ Each problem is numbered and consists of:
 
 To execute the solutions, clone the repository and run the Python scripts:
 
-git clone https://github.com/your-repo-link.git  
-cd AI-for-Science-Solutions  
-python 1-minimum-number-of-times.py  
-python 2-unique-permutations.py  
-python 3-least-common-multiple.py  
+git clone https://github.com/jiaqili-co/one.git 
+
 
 📌 Additional Notes
 	•	The problem-solving process is thoroughly documented in the .md files.
